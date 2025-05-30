@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Flash Chat",
+  "description": "A web application for interactive text generation and communication with Google's Gemini Flash model, featuring a dynamic chat interface.",
+  "requestFramePermissions": []
+}
